@@ -23,5 +23,7 @@ To deploy this project run
 
 ## Screenshots
 <p align="center">
-  <img width="200" src="https://i.hizliresim.com/9ywyisi.png" alt="Material Bread logo">
+  <img width="800" src="https://i.hizliresim.com/9ywyisi.png" alt="App SS 1">
+  <img width="800" src="https://i.hizliresim.com/8dpumz7.png" alt="App SS 2">
+  <img width="800" src="https://i.hizliresim.com/d7s5op3.png" alt="App SS 3">
 </p>
