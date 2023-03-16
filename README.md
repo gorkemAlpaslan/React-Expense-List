@@ -1,25 +1,12 @@
+## React-Expense-List
+React-Expense-List is a simple React.js application that allows users to track their monthly expenses. Users can add their expenses by providing the date and the amount. The application then lists the expenses by month and by year, allowing users to compare their monthly expenses.
 
-# React Expense List
+## Website
+React-Expense-List is hosted live on the following website:
+https://jade-baklava-7a2e68.netlify.app/
 
-React-Expense-List is a project that allows users to create lists of their expenses by specifying the date and amount, and divides these lists into months and displays them in graphs according to the amount of expense
-
-
-## Installation
-
-Install React Expense List with npm
-
-```bash
-  npm install
-```
-    
-## Deployment
-
-To deploy this project run
-
-```bash
-    npm start
-```
-
+## Technologies Used
+React-Expense-List was developed using the React.js library.
 
 ## Screenshots
 <p align="center">
